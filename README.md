@@ -1,6 +1,10 @@
 # Pukiwiki画像ダウンローダー
-
 PukiwikiのURLリストから埋め込み画像ファイルを取得して保存するWindowsGUIアプリケーションです。
+
+- Imageダウンローダー
+https://github.com/shimizu8502/WikiImageDownLoader
+
+
 
 ## 機能
 
